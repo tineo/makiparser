@@ -1,8 +1,12 @@
-#include <stdio.h>
+        #include <stdio.h>
 int main()
 {
    char name[50];
-   int marks, i, num;
+   int marks,
+    i, num;
+   float intervalo, parseint;
+   long me,int ev, float we;
+   int a; int b;
 
    printf("Enter number of students: ");
    scanf("%d", &num);
